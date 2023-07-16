@@ -1,0 +1,21 @@
+#navbar {
+    background-color: rgba(0, 139, 139, 0.517);
+    font-weight: 800;
+    color: rgb(44, 13, 220);
+    
+}
+body{
+    background: url(https://source.unsplash.com/random/1920x1080/?Anime,manga);
+    
+    background-size: cover;
+}
+
+#root{
+    text-align: center;
+   
+}
+
+button.btn.btn-outline-dark {
+    margin: 5px;
+}
+

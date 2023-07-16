@@ -1,0 +1,94 @@
+.tot h4{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(44, 13, 60);
+    background-color: rgba(133, 165, 165, 0.395);
+    border: 3px rgba(128, 139, 42, 0.661) solid;
+    max-width: 155px;
+    display: flex;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.tot h4:hover{
+    color: rgb(54, 74, 148);
+    background-color: rgba(18, 40, 127, 0.255);
+}
+
+.remove-btn{
+    color: brown;
+   
+    background-color: rgba(165, 42, 42, 0.27);
+    width:20%;
+}
+.remove-btn:hover{
+    color: rgb(71, 25, 25);
+    background-color: rgba(165, 42, 42, 0.552);
+}
+.add-btn{
+    color: green;
+    font-weight: 650;
+    
+ 
+    background-color: rgba(23, 156, 23, 0.388);
+}
+.add-btn:hover{
+    color: rgb(21, 185, 43);
+    background-color: rgba(172, 255, 47, 0.297);
+}
+.span{
+    border:3px solid rgba(128, 128, 128, 0.69);
+}
+.quan{
+    font-size: 30px;
+    font-weight: 700;
+    padding: 15px;
+}
+
+.item{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: 19px;
+    color: rgb(154, 6, 6);
+    background: rgba(173, 15, 15, 0.657);
+    max-width: 40%;
+    height: 50px;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 40px;
+}
+
+.item:hover{
+    color: rgb(245, 51, 7);
+    background-color: rgba(186, 65, 65, 0.74);
+}
+
+.buy-btn{
+    font-weight: 500;
+    font-size: 20px;
+    color: rgb(178, 14, 74);
+    background: rgba(152, 22, 55, 0.657);
+    max-width: 40%;
+    height: 50px;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 40px;
+}
+
+.buy-btn:hover{
+    color: rgb(189, 56, 56);
+    background-color: rgba(135, 6, 77, 0.57);
+}
+
+.clear-btn{
+    background-color: rgba(153, 10, 10, 0.579);
+    border-radius: 25px;
+}
+.clear-btn:hover{
+    color: rgb(137, 65, 65);
+}
